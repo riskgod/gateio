@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.5",
     "nonce": "^1.0.4",
     "q": "^1.5.0",
     "request": "^2.83.0"
